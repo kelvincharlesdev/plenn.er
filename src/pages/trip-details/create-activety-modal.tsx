@@ -26,7 +26,7 @@ export const CreateActivityModal = ({ closeCreateActivityModal: closeCreateActiv
             occurs_at
         })
 
-        window.location.reload()
+        window.document.location.reload()
 
     }
 
